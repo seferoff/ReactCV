@@ -1,0 +1,22 @@
+
+.heading {
+    text-align: center;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+table {
+    margin: 0 auto;
+    font-size: 20px;
+    border: 1px solid black;
+    width: 1000px;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: start;
+}
